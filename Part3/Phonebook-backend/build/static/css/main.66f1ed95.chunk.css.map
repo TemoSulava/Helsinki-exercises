@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,2BAEE,eAAgB,CAChB,eAAgB,CAChB,eACF,CAAA","file":"main.66f1ed95.chunk.css","sourcesContent":[".list-style, \r\n.filtered-list {\r\n  list-style: none;\r\n  font-size: 1.5em;\r\n  font-weight: 200;\r\n};"]}
