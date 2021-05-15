@@ -1,0 +1,12 @@
+post http://localhost:3002/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkVrYSIsImlkIjoiNjA5YmQwOGIxZjViNTIwNTI4MzA0NTlkIiwiaWF0IjoxNjIwODI2MDczfQ.CBfenykprNv_y7QqHWm3XmbgZKyfPkIgJZ9ZEYe7Oq8
+
+{
+     "title": "fake",
+     "author": "fakest",
+     "url": "Ahhgaagaad.com",
+     "likes": 2
+}
+
+
